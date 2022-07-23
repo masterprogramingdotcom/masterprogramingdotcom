@@ -9,10 +9,10 @@ Master programming is a Website & App that enables people that aren’t well ver
 [![github](https://img.shields.io/github/followers/masterprogramingdotcom?style=social)](https://github/followers/masterprogramingdotcom)
 # Hi, I'm Danish Ali 👋
 
-I am Founder of MasterPrograming.com And DanMojo.Com & Full Stack Web and [Desktop, Automation, Android] App Developer. I am also an Educator. I teach on [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://masterPrograming.com/) And
+I am Founder of MasterPrograming.com And DanMojo.Com & Full Stack Web and [Desktop, Automation, Android] App Developer. I am also an Educator. I teach on www.MasterPrograming.com And
 [![youtube](https://img.shields.io/youtube/channel/subscribers/UCbsVWeymfqS8yCfDmTgex4A?style=social)](https://www.youtube.com/channel/UCbsVWeymfqS8yCfDmTgex4A)
 
-For More Information About Me -[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mp-danishali)
+For More Information About Me  [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mp-danishali)
 ## 🛠 Skills
 Python, React, React Native, Django, Tkinter, Selenium, Appium, Javascript, HTML, CSS...
 
@@ -26,7 +26,7 @@ Python, React, React Native, Django, Tkinter, Selenium, Appium, Javascript, HTML
 [![react](https://camo.githubusercontent.com/70827a1738d9f3f4269797aa560959dc589022f0166cda83fa957897b85e028a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5265616374204a532d3230323332413f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d363144414642)](https://masterprograming.com/) [![bootstrap](https://camo.githubusercontent.com/b13ed67c809178963ce9d538175b02649800772be1ce0cb02da5879e5614e236/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f426f6f7473747261702d3536334437433f7374796c653d666f722d7468652d6261646765266c6f676f3d626f6f747374726170266c6f676f436f6c6f723d7768697465)](https://masterprograming.com/) [![masterprograming](https://camo.githubusercontent.com/7060c233f1789a7efea081a1e8192536806e3271d0f01223c85d5caf9fa6a976/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f526564757820546f6f6c6b69742d3539334438383f7374796c653d666f722d7468652d6261646765266c6f676f3d7265647578266c6f676f436f6c6f723d7768697465)](https://masterprograming.com/) [![masterprograming](https://camo.githubusercontent.com/4f9d20f3a284d2f6634282f61f82a62e99ee9906537dc9859decfdc9efbb51ec/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163745f526f757465722d4341343234353f7374796c653d666f722d7468652d6261646765266c6f676f3d72656163742d726f75746572266c6f676f436f6c6f723d7768697465)](https://masterprograming.com/) 
 
 ## Backend Framework and Library
-#### Django, Tkinter, Selenium, Appium, Rest Framework ....
+#### Django, Tkinter, Selenium, Appium, Rest Framework, Numpy, Pandas, Matplotlib, sklearn ....
 
 ## Database
 [![masterprograming](https://camo.githubusercontent.com/a4a4a017a5d519d7c4ce2a3cd3d2194fb7af4b1ca424850784565007c2acc7d8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7953514c2d3030354338343f7374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465)](https://masterprograming.com) [![masterprograming](https://camo.githubusercontent.com/932123bf240349f3785c02228b113b06299079e8740f480c767e8335fd6d752a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53514c6974652d3037343035453f7374796c653d666f722d7468652d6261646765266c6f676f3d73716c697465266c6f676f436f6c6f723d7768697465)](https://masterprograming.com)
