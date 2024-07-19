@@ -2,14 +2,14 @@
 [![Logo](https://raw.githubusercontent.com/geekyshow1/geekyshow1/main/gbann.png)](https://masterprograming.com)
 
 
-# MasterPrograming.com
+# AliDanish.com
 
 Master programming is a Website & App that enables people that aren’t well versed in English to learn programming languages like Python, C, C++, JAVA, CSS, HTML, JavaScript, PHP in HINDI. Masterprograming.com provides all the Programming Language education for ABSOLUTELY FREE OF COST.
 
 [![github](https://img.shields.io/github/followers/masterprogramingdotcom?style=social)](https://github/followers/masterprogramingdotcom)
 # Hi, I'm Danish Ali 👋
 
-I am Founder of MasterPrograming.com And DanMojo.Com & Full Stack Web and [Desktop, Automation, Android] App Developer. I am also an Educator. I teach on www.MasterPrograming.com And
+I am Founder of AliDanish.com And blog.AliDanish.Com & Full Stack Web and [Desktop, Automation, Android] App Developer. I am also an Educator. I teach on www.MasterPrograming.com And
 [![youtube](https://img.shields.io/youtube/channel/subscribers/UCbsVWeymfqS8yCfDmTgex4A?style=social)](https://www.youtube.com/channel/UCbsVWeymfqS8yCfDmTgex4A)
 
 For More Information About Me  [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mp-danishali)
