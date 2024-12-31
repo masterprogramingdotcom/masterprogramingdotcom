@@ -39,62 +39,9 @@ Python, React, React Native, Django, Tkinter, Selenium, Appium, Javascript, HTML
 
 ## Let's Connect
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mp-danishali) [![github](https://img.shields.io/github/followers/masterprogramingdotcom?style=social)](https://github/followers/masterprogramingdotcom) [![youtube](https://img.shields.io/youtube/channel/subscribers/UCbsVWeymfqS8yCfDmTgex4A?style=social)](https://www.youtube.com/channel/UCbsVWeymfqS8yCfDmTgex4A) 
-## PIP MasterPrograming.com
-Master Programming is a Python PIP Package that enables people that aren’t well to Build Software By Coding. Masterprograming.com provides all the Build Software for ABSOLUTELY FREE OF COST.
-
-
-
-[![App Screenshot](https://i0.wp.com/masterprograming.com/wp-content/uploads/2021/02/masterprograming-packages.png?fit=1024%2C560&ssl=1)](https://masterprograming.com/doc-masterprograming-package/)
-
-[Follow Documentation](https://masterprograming.com/doc-masterprograming-package/)
-
-## Running Tests
-
-#### To run masterprograming pip, run the following command
-
-How to Install masterprograming Package
-```bash
-  pip install masterprograming
-```
-How to Import masterprograming Package
-```bash
-  from masterprograming import *
-  dk = Master()
-  dk.MPHelp()
-```
-
-Output Help
-```bash
-MasterPrograming.com
---------------------
-Welcome To MasterPrograming library 2021
-Master Programing is a PIP Package that enables people that aren't well to Build Software By Coding And Its Provides already Built Software.
-----------------------------------
-Objects Names
-MPHindi - For Learning Python
-MPSimpleGui - Tkinter Calculator App
-MPPnr - PNR Checker App
-MPKeyboard - Onscreen Keyboard App
-MPCal - Calculator To Add Numbers
-MPQuiz - Quiz App
-MPSciCal - Scientific Calculator App
-MPNotePad - NotePad App
-MPTodoApp - Todo list App
-MPBanking - Banking Software
-```
-
-[Follow Documentation](https://masterprograming.com/doc-masterprograming-package/)
-
-## Android App MasterPrograming.com
-Master Programing Is A Global Information Technology Solutions Company Offering Progressive end-to-end Software Development Services.
-
-
-[![App Screenshot](https://play-lh.googleusercontent.com/HJrhO10sfLWN0LxDwm69SAe58L9xmcH0LdzKycTQhU6Pgt9A78gvgXxx3uVV4-2WeCI=w240-h480-rw)](https://play.google.com/store/apps/details?id=com.masterprograming.app.wpnewz&hl=en_IN&gl=US)
-
-[Download Android App](https://play.google.com/store/apps/details?id=com.masterprograming.app.wpnewz&hl=en_IN&gl=US)
 
 
 ## Feedback
 
-If you have any feedback, please reach out to us at help@masterprograming.com
+If you have any feedback, please reach out to us at alidanish635@gmail.com
 
