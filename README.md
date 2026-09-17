@@ -1,28 +1,27 @@
+# Danish Ali 👋
 
-[![Logo](https://raw.githubusercontent.com/geekyshow1/geekyshow1/main/gbann.png)](https://masterprograming.com)
+**Senior Software Engineer · Ethical Hacker · Entrepreneur**
 
-# AliDanish.com
+I build **AI-powered products, automation systems, developer tools, and secure software**.
 
-AliDanish.com is a Website & App that enables people who aren’t well-versed in English to learn programming languages like Python, C, C++, JAVA, CSS, HTML, JavaScript, and PHP in HINDI. AliDanish.com provides all the Programming Language education for ABSOLUTELY FREE OF COST.
+My work sits at the intersection of **software engineering, artificial intelligence, cybersecurity, and product development**. I enjoy solving complex problems, designing systems, and turning ideas into production-ready technology.
 
-# Hi, I'm Danish Ali 👋
+### Areas of Work
 
-I am the Founder of AliDanish.com and blog.AliDanish.com. I am a Full Stack Web and [Desktop, Automation, Android] App Developer. I am also an Educator, teaching on AliDanish.com.
+* 🤖 **Artificial Intelligence & AI Agents**
+* 🐍 **Python & Backend Engineering**
+* ⚛️ **Web & Mobile Applications**
+* 🔐 **Cybersecurity & Ethical Hacking**
+* ⚙️ **Automation & Developer Tools**
+* ☁️ **Cloud & Scalable Systems**
+* 🚀 **Product & Startup Development**
 
-## 🔧 Skills
+### Technology
 
-- **Programming Languages**: Python, JavaScript, PHP, HTML, CSS
-- **Frontend Frameworks and Libraries**: React.js, Bootstrap, Redux Toolkit, React Router
-- **Backend Frameworks and Libraries**: Django, Tkinter, Selenium, Appium, Rest Framework, Numpy, Pandas, Matplotlib, scikit-learn
-- **Databases**: MySQL, SQLite
-- **Mobile Framework**: React Native
-- **Other Tools**: WordPress, Postman, Canva
+**Python · Django · FastAPI · React · React Native · TypeScript · PostgreSQL · Docker · AWS · AI/ML · LLMs · Cybersecurity**
 
-## Let's Connect
+### Currently
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mp-danishali) [![GitHub](https://img.shields.io/github/followers/masterprogramingdotcom?style=social)](https://github/followers/masterprogramingdotcom) [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCbsVWeymfqS8yCfDmTgex4A?style=social)](https://www.youtube.com/channel/UCbsVWeymfqS8yCfDmTgex4A)
+Building, experimenting, breaking things, learning, and turning ideas into real products.
 
-## Feedback
-
-If you have any feedback, please reach out to us at alidanish635@gmail.com
-
+**Build with purpose. Think like a hacker. Secure like a defender. 🔐**
